@@ -1,0 +1,1293 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BookmarkManager">
+    <bookmark url="file://$PROJECT_DIR$/common/configDB.py" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="d982fe87-6994-4e87-888b-69e5af251043" name="Default" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$USER_HOME$/Desktop/HttpTest/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/InterfaceTest$Unittests_for_testBindCardWithCode_TestBindCardWithCode_testBindCardWithCode.coverage" NAME="Unittests for testBindCardWithCode.TestBindCardWithCode.testBindCardWithCode Coverage Results" MODIFIED="1547538132913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/dccj/user" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$delUserInfo.coverage" NAME="delUserInfo Coverage Results" MODIFIED="1550027417354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$configEmail.coverage" NAME="configEmail Coverage Results" MODIFIED="1545964291297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$luo.coverage" NAME="luo Coverage Results" MODIFIED="1545816530703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$getSecureKey.coverage" NAME="getSecureKey Coverage Results" MODIFIED="1547102059919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$_jclass.coverage" NAME="_jclass Coverage Results" MODIFIED="1546915343044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$runTest.coverage" NAME="runTest Coverage Results" MODIFIED="1550221128082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$yunzhijia.coverage" NAME="yunzhijia Coverage Results" MODIFIED="1543562392370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$hmy.coverage" NAME="hmy Coverage Results" MODIFIED="1548748489246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-636">
+              <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/caselist.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/api/delUserInfo.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-111">
+              <caret line="301" column="4" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/testFile/SQL.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="237">
+              <caret line="197" column="30" selection-start-line="197" selection-start-column="23" selection-end-line="197" selection-end-column="30" />
+              <folding>
+                <element signature="n#database#0;n#page#0;n#!!top" />
+                <element signature="n#table#0;n#database#0;n#page#0;n#!!top" />
+                <element signature="n#table#2;n#database#0;n#page#0;n#!!top" />
+                <element signature="n#table#3;n#database#0;n#page#0;n#!!top" />
+                <element signature="n#database#1;n#page#0;n#!!top" />
+                <element signature="n#database#2;n#page#0;n#!!top" />
+                <element signature="n#database#3;n#page#0;n#!!top" />
+                <element signature="n#table#2;n#database#3;n#page#0;n#!!top" />
+                <element signature="n#database#5;n#page#0;n#!!top" />
+                <element signature="n#database#6;n#page#0;n#!!top" />
+                <element signature="n#database#8;n#page#0;n#!!top" />
+                <element signature="n#table#0;n#database#9;n#page#0;n#!!top" />
+                <element signature="n#database#10;n#page#0;n#!!top" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/config.ini">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="299">
+              <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/runTest.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="308">
+              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+              <folding>
+                <element signature="e#0#9#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/hmy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="173">
+              <caret line="158" column="25" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/readConfig.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="528">
+              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/getSecureKey.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="214">
+              <caret line="42" column="63" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="68" />
+              <folding>
+                <element signature="e#0#11#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Tag Library Descriptor" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>delmemberinfo</find>
+      <find>member_info</find>
+      <find>member</find>
+      <find>delcredit</find>
+      <find>delusercredit</find>
+      <find>getmemberid</find>
+      <find>member_external_user</find>
+      <find>user_comm</find>
+      <find>delrisk_baseinfo</find>
+      <find>contacts_info</find>
+      <find>delbaseinfo</find>
+      <find>delBankAccount</find>
+      <find>delBankCardByMemberId</find>
+      <find>getMemberIdBycellphone</find>
+      <find>user_contacts_info</find>
+      <find>delmmh_credit_audit</find>
+      <find>delaccount</find>
+      <find>delout_account_detail</find>
+      <find>delmemberaccount</find>
+      <find>delout_account</find>
+      <find>yongda_account</find>
+      <find>member_account</find>
+      <find>getMemberAccount</find>
+      <find>delhome_case_audit</find>
+      <find>delexternal</find>
+      <find>delusercommitbyname</find>
+      <find>getWorkorder</find>
+      <find>delmemberformemberid</find>
+      <find>delpersonalmember</find>
+      <find>getfromid</find>
+    </findStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/testcase/dccj/Client/testPayConfirm.py" />
+        <option value="$PROJECT_DIR$/util/dbConnPool.py" />
+        <option value="$PROJECT_DIR$/api/del_BankCard.py" />
+        <option value="$PROJECT_DIR$/api/del_BankCard_Only.py" />
+        <option value="$PROJECT_DIR$/api/get_register_code.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/Client/testSupportBanks.py" />
+        <option value="$PROJECT_DIR$/api/sendSMSCode.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/Client/testRegister.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/Client/testBindBankCardDone.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/Client/testRequestBindBankCard.py" />
+        <option value="$PROJECT_DIR$/model/wxTextMessage.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/Client/testBankList.py" />
+        <option value="$PROJECT_DIR$/api/dbManager.py" />
+        <option value="$PROJECT_DIR$/../wamp64/bin/apache/apache2.4.33/conf/httpd.conf" />
+        <option value="$PROJECT_DIR$/../wamp64/bin/apache/apache2.4.33/bin/php.ini" />
+        <option value="$PROJECT_DIR$/api/getAccessToken.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/Client/testPayAction.py" />
+        <option value="$PROJECT_DIR$/api/getRSA.py" />
+        <option value="$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/site-packages/rsa/transform.py" />
+        <option value="$USER_HOME$/Desktop/HttpTest/src/test/java/com/yongda/httptest/base/BaseTestCase.java" />
+        <option value="$PROJECT_DIR$/api/yunzhijia.py" />
+        <option value="$PROJECT_DIR$/api/del_UserInfo.py" />
+        <option value="$PROJECT_DIR$/api/luo.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/好美意/loan/testAdd.py" />
+        <option value="$PROJECT_DIR$/common/configHttp.py" />
+        <option value="$PROJECT_DIR$/common/common.py" />
+        <option value="$PROJECT_DIR$/common/configEmail.py" />
+        <option value="$PROJECT_DIR$/api/WeChatClient.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/limit/testQuery.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testPartialPayment.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testRefund.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/testQuerySign.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/testTryCalculation.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/homecase/testQueryCredit.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/testUnbindCard.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/testBindCardApply.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/testBindCardWithCode.py" />
+        <option value="$PROJECT_DIR$/readConfig.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testRepeal.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/testDownloadStatement.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/testDownloadContractFile.py" />
+        <option value="$PROJECT_DIR$/caselist.txt" />
+        <option value="$PROJECT_DIR$/common/configDB.py" />
+        <option value="$PROJECT_DIR$/api/getSecureKey.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/user/homecase/testAuditApply.py" />
+        <option value="$PROJECT_DIR$/config.ini" />
+        <option value="$PROJECT_DIR$/api/hmy.py" />
+        <option value="$PROJECT_DIR$/runTest.py" />
+        <option value="$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py" />
+        <option value="$PROJECT_DIR$/testFile/SQL.xml" />
+        <option value="$PROJECT_DIR$/api/delUserInfo.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="39" />
+    <option name="y" value="23" />
+    <option name="width" value="1881" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State>
+            <id />
+          </State>
+          <State>
+            <id>Python</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>PyPep8Inspection</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane" />
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543213372614" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Problems" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="settings.github" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Yz\IdeaProjects\Interfacetest\testcase\dccj\H5" />
+      <recent name="D:\Yz\IdeaProjects\Interfacetest\testFile" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Yz\IdeaProjects\Interfacetest\model" />
+      <recent name="D:\Yz\IdeaProjects\Interfacetest\util" />
+      <recent name="D:\Yz\IdeaProjects\Interfacetest\api" />
+      <recent name="D:\Yz\IdeaProjects\Interfacetest\common" />
+      <recent name="D:\Yz\IdeaProjects\Interfacetest\testFile" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.runTest">
+    <configuration default="true" type="Applet">
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="TestNG">
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file enabled="true" id="idea.log" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_jclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/_jclass.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="delUserInfo" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/delUserInfo.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="getSecureKey" type="PythonConfigurationType" factoryName="Python">
+      <module name="InterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/getSecureKey.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="hmy" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/hmy.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="runTest" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="InterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/runTest.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Unittests for testBindCardWithCode.TestBindCardWithCode.testBindCardWithCode" type="tests" factoryName="Unittests" temporary="true" nameIsGenerated="true">
+      <module name="InterfaceTest" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/testcase/dccj/user" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;testBindCardWithCode.TestBindCardWithCode.testBindCardWithCode&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.runTest" />
+        <item itemvalue="Python.delUserInfo" />
+        <item itemvalue="Python.hmy" />
+        <item itemvalue="Python tests.Unittests for testBindCardWithCode.TestBindCardWithCode.testBindCardWithCode" />
+        <item itemvalue="Python._jclass" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration" cleanupOnStartRun="true">
+    <configuration>C:\Users\Administrator\AppData\Roaming\Subversion</configuration>
+    <supportedVersion>125</supportedVersion>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="d982fe87-6994-4e87-888b-69e5af251043" name="Default" comment="" />
+      <created>1519630642050</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1519630642050</updated>
+      <workItem from="1519630644590" duration="9830000" />
+      <workItem from="1519692076008" duration="14588000" />
+      <workItem from="1519779822067" duration="16922000" />
+      <workItem from="1519804736084" duration="4527000" />
+      <workItem from="1519866276222" duration="21390000" />
+      <workItem from="1520210774893" duration="43531000" />
+      <workItem from="1520401196413" duration="9978000" />
+      <workItem from="1520470879431" duration="28619000" />
+      <workItem from="1520817017411" duration="13066000" />
+      <workItem from="1520841802377" duration="715000" />
+      <workItem from="1520842537722" duration="1198000" />
+      <workItem from="1520843745806" duration="745000" />
+      <workItem from="1520844511251" duration="970000" />
+      <workItem from="1520846709090" duration="23187000" />
+      <workItem from="1520939416154" duration="6905000" />
+      <workItem from="1521011198137" duration="676000" />
+      <workItem from="1521096127883" duration="6016000" />
+      <workItem from="1521440716518" duration="3704000" />
+      <workItem from="1521610879750" duration="10672000" />
+      <workItem from="1521705976870" duration="3283000" />
+      <workItem from="1521790813983" duration="4476000" />
+      <workItem from="1522027038564" duration="1228000" />
+      <workItem from="1522114050810" duration="8683000" />
+      <workItem from="1523523942451" duration="31000" />
+      <workItem from="1524014620392" duration="7038000" />
+      <workItem from="1524128520502" duration="882000" />
+      <workItem from="1524202821373" duration="9320000" />
+      <workItem from="1524214604717" duration="1869000" />
+      <workItem from="1524226482292" duration="40764000" />
+      <workItem from="1524638419130" duration="8308000" />
+      <workItem from="1524719260823" duration="27780000" />
+      <workItem from="1524882671287" duration="3927000" />
+      <workItem from="1525226183069" duration="6888000" />
+      <workItem from="1525314353324" duration="10122000" />
+      <workItem from="1525420667488" duration="654000" />
+      <workItem from="1525656012792" duration="3696000" />
+      <workItem from="1525849351584" duration="2348000" />
+      <workItem from="1525938442829" duration="598000" />
+      <workItem from="1526349600981" duration="22246000" />
+      <workItem from="1527218168417" duration="3067000" />
+      <workItem from="1527471477996" duration="29067000" />
+      <workItem from="1527733983277" duration="7311000" />
+      <workItem from="1529388510037" duration="10965000" />
+      <workItem from="1530169873945" duration="3156000" />
+      <workItem from="1530840486108" duration="46000" />
+      <workItem from="1530842348044" duration="13602000" />
+      <workItem from="1531708984784" duration="4053000" />
+      <workItem from="1532072964353" duration="11797000" />
+      <workItem from="1533188701641" duration="3789000" />
+      <workItem from="1534728004072" duration="1230000" />
+      <workItem from="1534917972501" duration="1214000" />
+      <workItem from="1535334164239" duration="15181000" />
+      <workItem from="1535936805721" duration="1592000" />
+      <workItem from="1536026240975" duration="61000" />
+      <workItem from="1536026641937" duration="12415000" />
+      <workItem from="1536545052510" duration="4271000" />
+      <workItem from="1537147200893" duration="6665000" />
+      <workItem from="1537171664465" duration="678000" />
+      <workItem from="1537172376610" duration="7985000" />
+      <workItem from="1537407549777" duration="2683000" />
+      <workItem from="1537675291602" duration="2803000" />
+      <workItem from="1537840119115" duration="2836000" />
+      <workItem from="1537925307598" duration="2980000" />
+      <workItem from="1538030130490" duration="1204000" />
+      <workItem from="1538098691366" duration="2984000" />
+      <workItem from="1538186742796" duration="1904000" />
+      <workItem from="1538964140646" duration="2232000" />
+      <workItem from="1539150972533" duration="2495000" />
+      <workItem from="1539222838486" duration="6231000" />
+      <workItem from="1539324887516" duration="1382000" />
+      <workItem from="1539568495202" duration="3691000" />
+      <workItem from="1539842905645" duration="4856000" />
+      <workItem from="1540170573654" duration="3284000" />
+      <workItem from="1540345668176" duration="7698000" />
+      <workItem from="1540518417726" duration="919000" />
+      <workItem from="1540860535257" duration="294000" />
+      <workItem from="1540860892065" duration="2611000" />
+      <workItem from="1540863703476" duration="2707000" />
+      <workItem from="1540948835865" duration="1885000" />
+      <workItem from="1541037377131" duration="3376000" />
+      <workItem from="1541216893111" duration="3291000" />
+      <workItem from="1541407226016" duration="12948000" />
+      <workItem from="1541813847495" duration="772000" />
+      <workItem from="1541835989489" duration="34000" />
+      <workItem from="1541986823541" duration="34432000" />
+      <workItem from="1542591013280" duration="6634000" />
+      <workItem from="1542879437462" duration="4801000" />
+      <workItem from="1543213171737" duration="209000" />
+      <workItem from="1543297206579" duration="210000" />
+      <workItem from="1543298462942" duration="2791000" />
+      <workItem from="1543373480830" duration="8863000" />
+      <workItem from="1543477068034" duration="610000" />
+      <workItem from="1543558318713" duration="8585000" />
+      <workItem from="1543818408506" duration="2636000" />
+      <workItem from="1544085353891" duration="1004000" />
+      <workItem from="1544410668313" duration="234000" />
+      <workItem from="1544428018656" duration="1262000" />
+      <workItem from="1544491011185" duration="153000" />
+      <workItem from="1544491293561" duration="3085000" />
+      <workItem from="1544578715457" duration="1361000" />
+      <workItem from="1545096991764" duration="781000" />
+      <workItem from="1545103575756" duration="2019000" />
+      <workItem from="1545113228313" duration="1801000" />
+      <workItem from="1545121347632" duration="1260000" />
+      <workItem from="1545123642135" duration="1507000" />
+      <workItem from="1545133956851" duration="4866000" />
+      <workItem from="1545215974283" duration="1657000" />
+      <workItem from="1545275549312" duration="2175000" />
+      <workItem from="1545359502058" duration="627000" />
+      <workItem from="1545617198608" duration="5869000" />
+      <workItem from="1545633804849" duration="2924000" />
+      <workItem from="1545716861725" duration="3453000" />
+      <workItem from="1545788013728" duration="6014000" />
+      <workItem from="1545814796878" duration="2262000" />
+      <workItem from="1545817304878" duration="1127000" />
+      <workItem from="1545818663860" duration="1573000" />
+      <workItem from="1545873396056" duration="6794000" />
+      <workItem from="1545880516818" duration="18000" />
+      <workItem from="1545880652550" duration="13597000" />
+      <workItem from="1545903751657" duration="14979000" />
+      <workItem from="1545982060047" duration="5272000" />
+      <workItem from="1546060975754" duration="8225000" />
+      <workItem from="1546394143795" duration="5063000" />
+      <workItem from="1546500338363" duration="3935000" />
+      <workItem from="1546508448022" duration="50915000" />
+      <workItem from="1547089225114" duration="47137000" />
+      <workItem from="1547624018868" duration="82292000" />
+      <workItem from="1550021564743" duration="11159000" />
+    </task>
+    <task id="LOCAL-00001" summary="test">
+      <created>1524211468118</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1524211468118</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="Unittests_for_testGetBBCarStoreList_GetModuleList - 2018.03.05 at 17h 09m 32s.xml">
+      <configuration name="Unittests for testGetBBCarStoreList.GetModuleList" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_Login - 2018.03.01 at 15h 32m 44s.xml">
+      <configuration name="Unittests for testLogin.Login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_Login - 2018.03.01 at 16h 36m 16s.xml">
+      <configuration name="Unittests for testLogin.Login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testLogin_Login - 2018.03.13 at 11h 04m 26s.xml">
+      <configuration name="Unittests for testLogin.Login" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_getVerifyCode_TestGetVerifyCode - 2018.03.07 at 16h 48m 01s.xml">
+      <configuration name="Unittests for test_getVerifyCode.TestGetVerifyCode" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_getVerifyCode_TestGetVerifyCode - 2018.03.07 at 16h 49m 39s.xml">
+      <configuration name="Unittests for test_getVerifyCode.TestGetVerifyCode" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_getVerifyCode_TestGetVerifyCode - 2018.03.07 at 16h 50m 01s.xml">
+      <configuration name="Unittests for test_getVerifyCode.TestGetVerifyCode" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_test_getVerifyCode_TestGetVerifyCode - 2018.03.07 at 16h 57m 36s.xml">
+      <configuration name="Unittests for test_getVerifyCode.TestGetVerifyCode" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_in_testgetModuleList_py - 2018.03.05 at 10h 01m 13s.xml">
+      <configuration name="Unittests in testgetModuleList.py" configurationId="tests" />
+    </history-entry>
+    <history-entry file="Unittests_for_testBindCardWithCode_TestBindCardWithCode_testBindCardWithCode - 2019.01.15 at 15h 42m 21s.xml">
+      <configuration name="Unittests for testBindCardWithCode.TestBindCardWithCode.testBindCardWithCode" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="963796000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="39" y="23" width="1881" height="1057" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22077216" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Designer" order="2" />
+      <window_info id="Image Layers" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Favorites" order="5" side_tool="true" />
+      <window_info id="Capture Tool" order="6" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.34040296" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64375" visible="true" weight="0.253886" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5772921" weight="0.44041452" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
+      <window_info anchor="bottom" id="Terminal" order="7" />
+      <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32827735" />
+      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Java Enterprise" order="10" />
+      <window_info anchor="bottom" id="Spring" order="11" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.32979852" />
+      <window_info anchor="bottom" id="Database Changes" order="13" />
+      <window_info anchor="bottom" id="Docker" order="14" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Python Console" order="15" sideWeight="0.49946696" weight="0.23185265" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="SciView" order="6" />
+      <window_info anchor="right" id="Database" order="7" />
+      <window_info anchor="right" id="Palette&#9;" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+      <window_info anchor="right" id="Bean Validation" order="10" />
+      <window_info anchor="right" id="Maven" order="11" />
+    </layout>
+    <layout-to-restore>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.11875" />
+      <window_info id="Structure" order="1" weight="0.25" />
+      <window_info id="Capture Tool" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Image Layers" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64375" weight="0.2682927" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.4875" weight="0.37327677" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.35625" side_tool="true" visible="true" weight="0.26800847" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Terminal" order="9" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Maven Projects" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Palette&#9;" order="6" />
+      <window_info anchor="right" id="Capture Analysis" order="7" />
+      <window_info anchor="right" id="SciView" order="8" />
+      <window_info anchor="right" id="Theme Preview" order="9" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="test" />
+    <option name="LAST_COMMIT_MESSAGE" value="test" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$APPLICATION_HOME_DIR$/helpers/pydev/_pydev_bundle/pydev_import_hook.py</url>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/api/yunzhijia.py</url>
+          <line>36</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/common/configEmail.py</url>
+          <line>173</line>
+          <option name="timeStamp" value="15" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/api/hmy.py</url>
+          <line>35</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/_jclass.py</url>
+          <line>16</line>
+          <option name="timeStamp" value="17" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="t.id()" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/smtplib.py" />
+    <entry file="file://$PROJECT_DIR$/api/WeChatClient.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1045">
+          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/sendSMSCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="49" column="24" selection-start-line="49" selection-start-column="24" selection-end-line="49" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/limit/testQuery.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="475">
+          <caret line="52" column="31" selection-start-line="52" selection-start-column="31" selection-end-line="52" selection-end-column="31" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/testTryCalculation.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="20" column="72" selection-start-line="20" selection-start-column="71" selection-end-line="20" selection-end-column="72" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/ntpath.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-691" />
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/_core.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="280">
+          <caret line="47" column="25" lean-forward="true" selection-start-line="47" selection-start-column="25" selection-end-line="47" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/pymysql/cursors.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="282" column="47" selection-start-line="282" selection-start-column="38" selection-end-line="282" selection-end-column="47" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943127/_sqlite3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="279" column="8" selection-start-line="279" selection-start-column="8" selection-end-line="279" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/configEmail.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="145" column="34" selection-start-line="145" selection-start-column="34" selection-end-line="145" selection-end-column="34" />
+          <folding>
+            <element signature="e#16#25#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943127/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="172" column="17" selection-start-line="172" selection-start-column="10" selection-end-line="172" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/configparser.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4">
+          <caret line="765" column="51" lean-forward="true" selection-start-line="765" selection-start-column="51" selection-end-line="765" selection-end-column="51" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/json/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="242">
+          <caret line="347" selection-start-line="347" selection-end-line="347" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/JClassUtil.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="19" column="17" selection-start-line="19" selection-start-column="17" selection-end-line="19" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/_jpackage.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="444">
+          <caret line="44" column="65" selection-start-line="44" selection-start-column="59" selection-end-line="44" selection-end-column="65" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="16" lean-forward="true" selection-start-line="16" selection-end-line="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Library/Caches/PyCharm2018.3/python_stubs/-1199943127/builtins.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="238">
+          <caret line="3598" column="8" selection-start-line="3598" selection-start-column="8" selection-end-line="3598" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/_jobject.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="424">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="6" selection-end-line="21" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/_jclass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-177">
+          <caret line="103" column="12" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="12" />
+          <folding>
+            <element signature="e#757#770#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testRefund.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-563">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/checkCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/homecase/testQueryCredit.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="560">
+          <caret line="34" column="57" selection-start-line="34" selection-start-column="57" selection-end-line="34" selection-end-column="57" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testPartialPayment.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="347">
+          <caret line="154" column="34" selection-start-line="154" selection-start-column="34" selection-end-line="154" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/testUnbindCard.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="449">
+          <caret line="44" column="44" selection-start-line="44" selection-start-column="44" selection-end-line="44" selection-end-column="44" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file:///Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/requests/models.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="255">
+          <caret line="882" column="77" selection-start-line="882" selection-start-column="77" selection-end-line="882" selection-end-column="77" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/testBindCardApply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="367">
+          <caret line="143" column="62" selection-start-line="143" selection-start-column="62" selection-end-line="143" selection-end-column="62" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/testBindCardWithCode.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1214">
+          <caret line="93" column="37" selection-start-line="93" selection-start-column="37" selection-end-line="93" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/testQuerySign.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="7" column="35" lean-forward="true" selection-start-line="7" selection-start-column="35" selection-end-line="7" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/result/20190115200419/report.html" />
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/testDownloadContractFile.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="443">
+          <caret line="106" column="33" selection-start-line="106" selection-start-column="33" selection-end-line="106" selection-end-column="33" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testRepeal.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="938">
+          <caret line="88" column="37" selection-start-line="88" selection-start-column="37" selection-end-line="88" selection-end-column="37" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/testDownloadStatement.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2764">
+          <caret line="133" column="16" selection-start-line="133" selection-start-column="16" selection-end-line="133" selection-end-column="16" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/dbManager.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/getAccessToken.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner/HTMLTestRunner_PY3.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="482">
+          <caret line="805" column="36" lean-forward="true" selection-start-line="805" selection-start-column="36" selection-end-line="805" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/HTMLTestRunner/__init__.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/wxTextMessage.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/del_UserInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="109" column="9" selection-start-line="109" selection-start-column="9" selection-end-line="109" selection-end-column="9" />
+          <folding>
+            <element signature="e#0#39#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/common.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="407">
+          <caret line="127" column="46" selection-start-line="127" selection-start-column="33" selection-end-line="127" selection-end-column="46" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/configDB.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="246">
+          <caret line="102" column="28" selection-start-line="102" selection-start-column="28" selection-end-line="102" selection-end-column="28" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/configHttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1347">
+          <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/homecase/testAuditApply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="149" column="45" selection-start-line="149" selection-start-column="41" selection-end-line="149" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/readConfig.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/hmy.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="173">
+          <caret line="158" column="25" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+          <folding>
+            <element signature="e#0#15#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.ini">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="299">
+          <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caselist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="7" selection-start-column="7" selection-end-column="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-636">
+          <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/getSecureKey.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="214">
+          <caret line="42" column="63" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="68" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="308">
+          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testFile/SQL.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="197" column="30" selection-start-line="197" selection-start-column="23" selection-end-line="197" selection-end-column="30" />
+          <folding>
+            <element signature="n#database#0;n#page#0;n#!!top" />
+            <element signature="n#table#0;n#database#0;n#page#0;n#!!top" />
+            <element signature="n#table#2;n#database#0;n#page#0;n#!!top" />
+            <element signature="n#table#3;n#database#0;n#page#0;n#!!top" />
+            <element signature="n#database#1;n#page#0;n#!!top" />
+            <element signature="n#database#2;n#page#0;n#!!top" />
+            <element signature="n#database#3;n#page#0;n#!!top" />
+            <element signature="n#table#2;n#database#3;n#page#0;n#!!top" />
+            <element signature="n#database#5;n#page#0;n#!!top" />
+            <element signature="n#database#6;n#page#0;n#!!top" />
+            <element signature="n#database#8;n#page#0;n#!!top" />
+            <element signature="n#table#0;n#database#9;n#page#0;n#!!top" />
+            <element signature="n#database#10;n#page#0;n#!!top" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/api/delUserInfo.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-111">
+          <caret line="301" column="4" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
+          <folding>
+            <element signature="e#0#22#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6 interpreter library</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>Python 3.6</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>InterfaceTest</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>Maven: com.alibaba:fastjson:1.1.40</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

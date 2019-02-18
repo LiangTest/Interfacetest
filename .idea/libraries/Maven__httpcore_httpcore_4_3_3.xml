@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: httpcore:httpcore:4.3.3">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/httpcore/httpcore/4.3.3/httpcore-4.3.3.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/httpcore/httpcore/4.3.3/httpcore-4.3.3-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

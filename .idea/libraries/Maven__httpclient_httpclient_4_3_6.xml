@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="Maven: httpclient:httpclient:4.3.6">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.m2/repository/httpclient/httpclient/4.3.6/httpclient-4.3.6.jar!/" />
+    </CLASSES>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.m2/repository/httpclient/httpclient/4.3.6/httpclient-4.3.6-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

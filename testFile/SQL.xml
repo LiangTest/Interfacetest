@@ -1,0 +1,344 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<page>
+    <database name="dccj_20161022" type="MySQL" host="192.168.110.122" port="3306" username="yaoz" password="Yaozheng77$">
+        <table name="ch_msg_code">
+            <sql id="queryVerifyCode">
+                SELECT * FROM `ch_msg_code` where phone=%s
+            </sql>
+        </table>
+        <table name="t_sys_user">
+            <sql id="delUser">
+                delete FROM `t_sys_user` where CELLPHONE =%s
+            </sql>
+            <sql id="delAuthEntication">
+                UPDATE `t_sys_user` set AUTHENTICATION='NO',USER_CARD=NULL,USER_NAME='' where CELLPHONE=%s
+            </sql>
+            <sql id="getMemberIdBycellphone">
+                select BUS_ID from t_sys_user where CELLPHONE=%s
+            </sql>
+            <sql id="getMemberIdByname">
+                select BUS_ID from t_sys_user where USER_NAME=%s
+            </sql>
+            <sql id="getMemberIdandNameBycellphone">
+                select BUS_ID , USER_NAME from t_sys_user where CELLPHONE=%s
+            </sql>
+            <sql id="getNameBycellphone">
+                select USER_NAME from t_sys_user where CELLPHONE=%s
+            </sql>
+            <sql id="delLoginPSWSet">
+                UPDATE t_sys_user set isLoginPasswordSet = 0 where CELLPHONE =%s
+            </sql>
+            <sql id="delPayPSWSet">
+                UPDATE t_sys_user set isPayPasswordSet = 0 where CELLPHONE =%s
+            </sql>
+        </table>
+        <table name="t_sys_user_login">
+            <sql id="delUserLogin">
+                delete FROM `t_sys_user_login` where CELLPHONE =%s
+            </sql>
+            <sql id="getToken">
+                SELECT TOKEN,BUS_ID FROM t_sys_user_login WHERE CELLPHONE=%s
+            </sql>
+        </table>
+        <table name="t_sys_user_bank_card">
+            <sql id="delBankCardByPhon">
+                delete FROM `t_sys_user_bank_card` where MOBILE_NUM=%s
+            </sql>
+            <sql id="delBankCardByMemberId">
+                delete FROM `t_sys_user_bank_card` where Member_Id=%s
+            </sql>
+            <sql id="delBankCardByName">
+                delete FROM `t_sys_user_bank_card` where REAL_NAME=%s
+            </sql>
+        </table>
+        <table name="t_sys_user_auth">
+            <sql id="delUserAuth">
+                delete FROM t_sys_user_auth where member_id in (%s)
+            </sql>
+        </table>
+    </database>
+    <database name="pay15db" type="Oracle" host="192.168.110.80" port="1516" username="yaoz" password="Yaozheng$">
+        <table name="tm_member_identity">
+            <sql id="getMemberIdByidentity">
+                select member_id from member.tm_member_identity y where y.identity =:identity
+            </sql>
+            <sql id="delMemberIdByIdentity">
+                delete from member.tm_member_identity y where y.identity =:identity
+            </sql>
+            <sql id="delMemberIdByMemberId">
+                delete from member.tm_member_identity y where y.Member_Id =:Member_Id
+            </sql>
+        </table>
+        <table name="tr_verify_ref">
+            <sql id="delVerifyRef">
+                delete from member.tr_verify_ref r where r.member_id in(:member_id)
+            </sql>
+        </table>
+        <table name="tr_verify_entity">
+            <sql id="delMemberVerify">
+                delete from member.TR_VERIFY_ENTITY where VERIFY_ENTITY_ID in (SELECT VERIFY_ENTITY_ID from member.tr_verify_ref r where r.member_id in(:member_id))
+            </sql>
+        </table>
+        <table name="TM_MEMBER">
+            <sql id="delMember">
+                delete from member.TM_MEMBER r where r.member_id in(:member_id)
+            </sql>
+        </table>
+        <table name="TR_BANK_ACCOUNT">
+            <sql id="delBankAccount">
+                delete from member.TR_BANK_ACCOUNT r where r.member_id in(:member_id)
+            </sql>
+            <sql id="delBankAccountByName">
+                delete from member.TR_BANK_ACCOUNT r where r.bank_account_name =:name
+            </sql>
+        </table>
+        <table name="TR_PERSONAL_MEMBER">
+            <sql id="delPersonalMenmer">
+                delete from member.TR_PERSONAL_MEMBER r where r.member_id =:member_id
+            </sql>
+        </table>
+        <table name="TM_PWD_OPERATOR_LOCK">
+            <sql id="resetPWDLock">
+                delete from member.tr_verify_ref r where r.member_id in(:member_id)
+            </sql>
+        </table>
+    </database>
+    <database name="dccj_cashier" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="channel_sign_info">
+            <sql id="delBankCardByPhon">
+                delete FROM `channel_sign_info` where mobile=%s
+            </sql>
+            <sql id="delBankCardByMemberId">
+                delete FROM `channel_sign_info` where member_id=%s
+            </sql>
+            <sql id="delBankCardByName">
+                delete FROM `channel_sign_info` where account_name=%s
+            </sql>
+        </table>
+    </database>
+    <database name="dccj_live" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="live_identity_info">
+            <sql id="delidentity">
+                delete FROM `live_identity_info` where member_id=%s
+            </sql>
+        </table>
+        <table name="user_commit_info">
+            <sql id="delusercommit">
+                delete FROM `user_commit_info` where external_user_id=%s
+            </sql>
+             <sql id="delusercommitbyname">
+                delete FROM `user_commit_info` where true_name=%s
+            </sql>
+        </table>
+
+        <table name="social_info">
+            <sql id="delsocial_info">
+                delete FROM `social_info` where member_id=%s
+            </sql>
+        </table>
+
+        <table name="forstage_order">
+            <sql id="delforstage_order">
+                delete FROM `forstage_order` where member_id=%s
+            </sql>
+        </table>
+        <table name="base_info">
+            <sql id="delbaseinfo">
+                DELETE FROM `base_info` where `name`=%s
+            </sql>
+        </table>
+
+        <table name="live_order">
+            <sql id="dellive_order">
+                delete FROM `live_order` where member_name=%s
+            </sql>
+        </table>
+        <table name="contacts_info">
+            <sql id="delcontacts_info">
+                delete FROM `contacts_info` where member_id=%s
+            </sql>
+        </table>
+        <table name="down_payment">
+            <sql id="deldown_payment">
+                delete FROM `down_payment` where order_id in ( SELECT order_id FROM `forstage_order` where member_id=%s)
+            </sql>
+        </table>
+
+        <table name="live_repay">
+            <sql id="dellive_repay">
+               delete FROM `live_repay` where order_id in ( SELECT order_id FROM `forstage_order` where member_id=%s)
+            </sql>
+        </table>
+        <table name="user_contacts_info">
+            <sql id="deluser_contacts_info">
+               delete FROM `user_contacts_info` where member_id=%s
+            </sql>
+        </table>
+    </database>
+    <database name="yongda_account" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <!--<table name="member">-->
+            <!--<sql id="delmember">-->
+                <!--delete FROM `member` where member_name=%s-->
+            <!--</sql>-->
+            <!--<sql id="getmemberid">-->
+                <!--SELECT member_id FROM `member` where member_name=%s-->
+            <!--</sql>-->
+        <!--</table>-->
+        <table name="member">
+            <sql id="deldpm">
+                DELETE from yongda_dpm.outer_account where account_no in (select account_id FROM yongda_account.member_account WHERE member_id =%(memberid)s)
+            </sql>
+            <sql id="getdpm">
+                SELECT * from yongda_dpm.outer_account where account_no in (select account_id FROM yongda_account.member_account WHERE member_id=%(memberid)s)
+            </sql>
+            <sql id="getmemberid">
+                SELECT member_id FROM `member` where member_name=%s
+            </sql>
+            <sql id="getfromid">
+                SELECT from_id FROM `member` where member_name=%s
+            </sql>
+            <sql id="delmemberforfromid">
+                delete FROM `member` where from_id=%s
+            </sql>
+            <sql id="delmemberformemberid">
+                delete FROM `member` where member_id=%s
+            </sql>
+
+        </table>
+        <table name="member_account">
+            <sql id="getMemberAccount">
+                select member_id from member_account where member_id =%(memberid)s
+            </sql>
+            <sql id="delmemberaccount">
+                delete from member_account where member_id =%s
+            </sql>
+        </table>
+
+    </database>
+    <database name="yongda_entry" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="entry_user_login">
+            <sql id="del_entry_login">
+                DELETE FROM `entry_user_login` where member_id=%s
+            </sql>
+        </table>
+        <table name="verify_code">
+            <sql id="get_verify_code">
+                select verify_code,status from `verify_code` where phone=%s AND status='0' order by create_time desc limit 0,1
+            </sql>
+        </table>
+    </database>
+    <database name="yongda_micromerchant" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="user_credit">
+            <sql id="delusercredit">
+                DELETE FROM `user_credit` WHERE member_id=%s
+            </sql>
+        </table>
+        <table name="car_info">
+            <sql id="delcar">
+                DELETE FROM car_info WHERE order_id IN (SELECT order_id FROM micro_order WHERE dealer_id=%s)
+            </sql>
+        </table>
+        <table name="micro_order">
+            <sql id="delmicroorder">
+                delete FROM `micro_order` where dealer_id=%s
+            </sql>
+        </table>
+    </database>
+    <database name="yongda_user" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="micro_credit_audit">
+            <sql id="delmicro_credit_audit">
+                delete FROM `micro_credit_audit` where member_id=%s
+            </sql>
+        </table>
+        <table name="for_stage_audit">
+            <sql id="delfor_stage_audit">
+                delete FROM `for_stage_audit` where external_user_id=%s
+            </sql>
+        </table>
+        <table name="home_case_audit">
+            <sql id="delhome_case_audit">
+                delete FROM `home_case_audit` where member_id=%s
+            </sql>
+        </table>
+        <table name="mmh_credit_audit">
+            <sql id="delmmh_credit_audit">
+                delete FROM `mmh_credit_audit` where external_user_id=%s
+            </sql>
+        </table>
+        <table name="member_external_user">
+            <sql id="delexternal">
+                DELETE FROM `member_external_user` where `member_id`=%s
+            </sql>
+        </table>
+        <table name="personal_member">
+            <sql id="delpersonalmember">
+                DELETE FROM `personal_member` where `member_id`=%s
+            </sql>
+        </table>
+        <table name="credit_result">
+            <sql id="delcreditresult">
+                DELETE FROM `credit_result` where `member_id`=%s
+            </sql>
+        </table>
+        <table name="member_info">
+            <sql id="delmemberinfo">
+                DELETE FROM `member_info` where `member_id`=%s
+            </sql>
+        </table>
+        <table name="member_info_relation">
+            <sql id="delmemberinforelation">
+                DELETE FROM `member_info_relation` where `member_id`=%s
+            </sql>
+        </table>
+
+    </database>
+     <database name="yongda_workbench" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="workorder_forstage">
+            <sql id="delworkorder_forstage">
+                delete FROM `workorder_forstage` where identify_no in (SELECT s.identify_no from yongda_user.for_stage_audit as s where external_user_id=%s )
+            </sql>
+        </table>
+         <table name="workorder_forstage_order">
+            <sql id="delworkorder_forstage_order">
+                delete FROM `workorder_forstage_order` where external_user_id=%s
+            </sql>
+        </table>
+         <table name="workorder">
+            <sql id="getWorkorder">
+                select id,object_id,audit_contract_serial_no FROM `workorder` where object_id=%s
+            </sql>
+        </table>
+    </database>
+     <database name="yongda_risk" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="risk_base_info">
+            <sql id="delrisk_baseinfo">
+                delete FROM `risk_base_info` where external_user_id=%s
+            </sql>
+        </table>
+    </database>
+    <database name="yongda_dpm" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="out_account">
+            <sql id="delout_account">
+                DELETE from yongda_dpm.outer_account where account_no in (select account_id FROM yongda_account.member_account WHERE member_id =%(memberid)s)
+            </sql>
+            <sql id="getout_account">
+                SELECT account_no from `outer_account` where account_no in (select account_id FROM yongda_account.member_account WHERE member_id =%(memberid)s)
+            </sql>
+        </table>
+        <table name="out_account_subset">
+            <sql id="delout_account_subset">
+               DELETE from yongda_dpm.outer_account_subset where account_no in (select account_id FROM yongda_account.member_account WHERE member_id =%(memberid)s)
+            </sql>
+        </table>
+        <table name="out_account_detail">
+            <sql id="delout_account_detail">
+               DELETE from yongda_dpm.outer_account_detail where account_no in (select account_id FROM yongda_account.member_account WHERE member_id =%(memberid)s)
+            </sql>
+        </table>
+        <table name="out_account_sub_detail">
+            <sql id="delout_account_sub_detail">
+               DELETE from yongda_dpm.outer_account_sub_detail where account_no in (select account_id FROM yongda_account.member_account WHERE member_id =%(memberid)s)
+            </sql>
+        </table>
+    </database>
+</page>
