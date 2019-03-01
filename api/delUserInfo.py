@@ -509,7 +509,7 @@ def delCredit(phone):
             deloutaccountsubset(memberid)
             deloutaccountdetail(memberid)
             deloutaccountsubsetdetail(memberid)
-            delhomecase_order(fromid)
+            #delhomecase_order(fromid)
             delcredit_result(fromid)
             delmemberinfo(fromid)
             delmemberinforelation(fromid)
@@ -580,17 +580,17 @@ def delforstage(phone):
 
 if __name__ == '__main__':
     try:
-        delCredit('18006782508')
+        #delCredit('15700098573')
         # delAuth('18006782508')
-        delBankCard1('18006782508')
+        #delBankCard1('15700098573')
         #delAuth('15726940779')
         #delmmh_credit_audit('100001470054')
         #print("删除用户授信及绑卡完成")
-        #print(getMemberAccount('11083251997758115840'))
+        print(getMemberAccount('11083251997758115840'))
 
         #print(q)
         #print(getout_account('11087984954045550592'))
-        #print(getMemberIdandNameBycellphone('18006782508'))
+        #print(getMemberIdandNameBycellphone('15700098573'))
 
     except Error as e:
         print(e)

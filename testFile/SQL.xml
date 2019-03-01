@@ -185,17 +185,14 @@
             <!--</sql>-->
         <!--</table>-->
         <table name="member">
-            <sql id="deldpm">
-                DELETE from yongda_dpm.outer_account where account_no in (select account_id FROM yongda_account.member_account WHERE member_id =%(memberid)s)
-            </sql>
-            <sql id="getdpm">
-                SELECT * from yongda_dpm.outer_account where account_no in (select account_id FROM yongda_account.member_account WHERE member_id=%(memberid)s)
-            </sql>
             <sql id="getmemberid">
                 SELECT member_id FROM `member` where member_name=%s
             </sql>
             <sql id="getfromid">
                 SELECT from_id FROM `member` where member_name=%s
+            </sql>
+            <sql id="getmemberforfromid">
+                select member_id FROM `member` where from_id=%s
             </sql>
             <sql id="delmemberforfromid">
                 delete FROM `member` where from_id=%s
@@ -292,7 +289,7 @@
         </table>
 
     </database>
-     <database name="yongda_workbench" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+    <database name="yongda_workbench" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
         <table name="workorder_forstage">
             <sql id="delworkorder_forstage">
                 delete FROM `workorder_forstage` where identify_no in (SELECT s.identify_no from yongda_user.for_stage_audit as s where external_user_id=%s )
@@ -309,7 +306,7 @@
             </sql>
         </table>
     </database>
-     <database name="yongda_risk" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+    <database name="yongda_risk" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
         <table name="risk_base_info">
             <sql id="delrisk_baseinfo">
                 delete FROM `risk_base_info` where external_user_id=%s
@@ -338,6 +335,61 @@
         <table name="out_account_sub_detail">
             <sql id="delout_account_sub_detail">
                DELETE from yongda_dpm.outer_account_sub_detail where account_no in (select account_id FROM yongda_account.member_account WHERE member_id =%(memberid)s)
+            </sql>
+        </table>
+    </database>
+    <database name="yongda_merchant" type="MySQL" host="192.168.130.193" port="3306" username="yongda" password="ZgcUEMtToGQ4NJwRjXXHKrZs">
+        <table name="credit_audit">
+            <sql id="delcredit_audit">
+                DELETE from credit_audit where merchant_id = %s
+            </sql>
+        </table>
+        <table name="merchant">
+            <sql id="delmerchant">
+               DELETE from merchant WHERE merchant_id = %s
+            </sql>
+            <sql id="getmerchant_id">
+               select merchant_id from merchant WHERE login_name = %s
+            </sql>
+        </table>
+        <table name="merchant_bank">
+            <sql id="delmerchant_bank">
+               DELETE from merchant_bank WHERE merchant_id = %s
+            </sql>
+        </table>
+        <table name="merchant_contact">
+            <sql id="delmerchant_contact">
+               DELETE from merchant_contact WHERE merchant_id = %s
+            </sql>
+        </table>
+        <table name="merchant_info">
+            <sql id="delmerchant_info">
+               DELETE from merchant_info WHERE merchant_id = %s
+            </sql>
+        </table>
+        <table name="merchant_ip_whitelist">
+            <sql id="delmerchant_ip_whitelist">
+               DELETE from merchant_ip_whitelist WHERE merchant_id = %s
+            </sql>
+        </table>
+        <table name="merchant_notify">
+            <sql id="delmerchant_notify">
+               DELETE from merchant_notify WHERE merchant_id = %s
+            </sql>
+        </table>
+        <table name="merchant_product">
+            <sql id="delmerchant_product">
+               DELETE from merchant_product WHERE merchant_id = %s
+            </sql>
+        </table>
+        <table name="merchant_secret">
+            <sql id="delmerchant_secret">
+               DELETE from merchant_secret WHERE merchant_id = %s
+            </sql>
+        </table>
+        <table name="merchant_survey">
+            <sql id="delmerchant_survey">
+               DELETE from merchant_survey WHERE merchant_id = %s
             </sql>
         </table>
     </database>

@@ -4,7 +4,45 @@
     <bookmark url="file://$PROJECT_DIR$/common/configDB.py" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d982fe87-6994-4e87-888b-69e5af251043" name="Default" comment="" />
+    <list default="true" id="d982fe87-6994-4e87-888b-69e5af251043" name="Default" comment="test">
+      <change afterPath="$PROJECT_DIR$/api/delMerchant.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/api/delUserInfo.py" beforeDir="false" afterPath="$PROJECT_DIR$/api/delUserInfo.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/caselist.txt" beforeDir="false" afterPath="$PROJECT_DIR$/caselist.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/config.ini" beforeDir="false" afterPath="$PROJECT_DIR$/config.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190213093633/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190213093633/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190213094207/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190213094207/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190213094738/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190213094738/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190213111018/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190214113721/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190214113721/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190214113746/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190214113746/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190214144308/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190214144308/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190214152332/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190214152332/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215113829/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215113829/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215145720/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215145720/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215145824/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215145824/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215150006/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215150006/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215161717/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215161717/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215163210/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215163210/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215165852/output.log" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/result/20190215165852/report.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFile/SQL.xml" beforeDir="false" afterPath="$PROJECT_DIR$/testFile/SQL.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testFile/case/loan.xlsx" beforeDir="false" afterPath="$PROJECT_DIR$/testFile/case/loan.xlsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py" beforeDir="false" afterPath="$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py" afterDir="false" />
+    </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$USER_HOME$/Desktop/HttpTest/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -15,43 +53,44 @@
   </component>
   <component name="CoverageDataManager">
     <SUITE FILE_PATH="coverage/InterfaceTest$Unittests_for_testBindCardWithCode_TestBindCardWithCode_testBindCardWithCode.coverage" NAME="Unittests for testBindCardWithCode.TestBindCardWithCode.testBindCardWithCode Coverage Results" MODIFIED="1547538132913" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/testcase/dccj/user" />
-    <SUITE FILE_PATH="coverage/InterfaceTest$delUserInfo.coverage" NAME="delUserInfo Coverage Results" MODIFIED="1550027417354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$delMerchant.coverage" NAME="delMerchant Coverage Results" MODIFIED="1551421613643" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$delUserInfo.coverage" NAME="delUserInfo Coverage Results" MODIFIED="1551404704354" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
     <SUITE FILE_PATH="coverage/InterfaceTest$configEmail.coverage" NAME="configEmail Coverage Results" MODIFIED="1545964291297" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/common" />
     <SUITE FILE_PATH="coverage/InterfaceTest$luo.coverage" NAME="luo Coverage Results" MODIFIED="1545816530703" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
     <SUITE FILE_PATH="coverage/InterfaceTest$getSecureKey.coverage" NAME="getSecureKey Coverage Results" MODIFIED="1547102059919" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
     <SUITE FILE_PATH="coverage/InterfaceTest$_jclass.coverage" NAME="_jclass Coverage Results" MODIFIED="1546915343044" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype" />
-    <SUITE FILE_PATH="coverage/InterfaceTest$runTest.coverage" NAME="runTest Coverage Results" MODIFIED="1550221128082" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/InterfaceTest$runTest.coverage" NAME="runTest Coverage Results" MODIFIED="1551165013837" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/InterfaceTest$yunzhijia.coverage" NAME="yunzhijia Coverage Results" MODIFIED="1543562392370" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
     <SUITE FILE_PATH="coverage/InterfaceTest$hmy.coverage" NAME="hmy Coverage Results" MODIFIED="1548748489246" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/api" />
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py">
+        <entry file="file://$PROJECT_DIR$/caselist.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-636">
-              <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
-              <folding>
-                <element signature="e#0#13#0" expanded="true" />
-              </folding>
+            <state relative-caret-position="396">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/caselist.txt">
+        <entry file="file://$PROJECT_DIR$/api/delUserInfo.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state>
-              <caret column="7" selection-start-column="7" selection-end-column="7" />
+            <state relative-caret-position="215">
+              <caret line="403" column="26" selection-start-line="403" selection-start-column="15" selection-end-line="403" selection-end-column="26" />
+              <folding>
+                <element signature="e#0#22#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/api/delUserInfo.py">
+        <entry file="file://$PROJECT_DIR$/api/delMerchant.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-111">
-              <caret line="301" column="4" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
+            <state relative-caret-position="363">
+              <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
               <folding>
                 <element signature="e#0#22#0" expanded="true" />
               </folding>
@@ -62,8 +101,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/testFile/SQL.xml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="237">
-              <caret line="197" column="30" selection-start-line="197" selection-start-column="23" selection-end-line="197" selection-end-column="30" />
+            <state relative-caret-position="398">
+              <caret line="194" column="22" selection-start-line="194" selection-start-column="22" selection-end-line="194" selection-end-column="22" />
               <folding>
                 <element signature="n#database#0;n#page#0;n#!!top" />
                 <element signature="n#table#0;n#database#0;n#page#0;n#!!top" />
@@ -72,12 +111,14 @@
                 <element signature="n#database#1;n#page#0;n#!!top" />
                 <element signature="n#database#2;n#page#0;n#!!top" />
                 <element signature="n#database#3;n#page#0;n#!!top" />
-                <element signature="n#table#2;n#database#3;n#page#0;n#!!top" />
                 <element signature="n#database#5;n#page#0;n#!!top" />
                 <element signature="n#database#6;n#page#0;n#!!top" />
+                <element signature="n#database#7;n#page#0;n#!!top" />
                 <element signature="n#database#8;n#page#0;n#!!top" />
+                <element signature="n#database#9;n#page#0;n#!!top" />
                 <element signature="n#table#0;n#database#9;n#page#0;n#!!top" />
                 <element signature="n#database#10;n#page#0;n#!!top" />
+                <element signature="n#database#11;n#page#0;n#!!top" />
               </folding>
             </state>
           </provider>
@@ -86,7 +127,7 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/config.ini">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="299">
+            <state relative-caret-position="651">
               <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
             </state>
           </provider>
@@ -95,8 +136,8 @@
       <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/runTest.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="308">
-              <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
+            <state relative-caret-position="924">
+              <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
               <folding>
                 <element signature="e#0#9#0" expanded="true" />
               </folding>
@@ -105,33 +146,48 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/hmy.py">
+        <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testRefund.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="173">
-              <caret line="158" column="25" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+            <state relative-caret-position="154">
+              <caret line="17" selection-start-line="17" selection-end-line="17" />
               <folding>
-                <element signature="e#0#15#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
               </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/readConfig.py">
+        <entry file="file://$PROJECT_DIR$/common/configHttp.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="528">
-              <caret line="27" column="8" selection-start-line="27" selection-start-column="8" selection-end-line="27" selection-end-column="8" />
+            <state relative-caret-position="1210">
+              <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+              <folding>
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/api/getSecureKey.py">
+        <entry file="file://$PROJECT_DIR$/testcase/dccj/user/homecase/testAuditApply.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="214">
-              <caret line="42" column="63" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="68" />
+            <state relative-caret-position="3058">
+              <caret line="149" column="45" selection-start-line="149" selection-start-column="41" selection-end-line="149" selection-end-column="45" />
               <folding>
-                <element signature="e#0#11#0" expanded="true" />
+                <element signature="e#0#13#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/api/hmy.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3168">
+              <caret line="158" column="25" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
+              <folding>
+                <element signature="e#0#15#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -149,12 +205,9 @@
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
-      <find>delmemberinfo</find>
-      <find>member_info</find>
       <find>member</find>
       <find>delcredit</find>
       <find>delusercredit</find>
-      <find>getmemberid</find>
       <find>member_external_user</find>
       <find>user_comm</find>
       <find>delrisk_baseinfo</find>
@@ -179,6 +232,9 @@
       <find>delmemberformemberid</find>
       <find>delpersonalmember</find>
       <find>getfromid</find>
+      <find>getmemberidby</find>
+      <find>getmemberaccount</find>
+      <find>getmemberid</find>
     </findStrings>
   </component>
   <component name="Git.Settings">
@@ -187,7 +243,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/testcase/dccj/Client/testPayConfirm.py" />
         <option value="$PROJECT_DIR$/util/dbConnPool.py" />
         <option value="$PROJECT_DIR$/api/del_BankCard.py" />
         <option value="$PROJECT_DIR$/api/del_BankCard_Only.py" />
@@ -228,7 +283,6 @@
         <option value="$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testRepeal.py" />
         <option value="$PROJECT_DIR$/testcase/dccj/user/testDownloadStatement.py" />
         <option value="$PROJECT_DIR$/testcase/dccj/user/testDownloadContractFile.py" />
-        <option value="$PROJECT_DIR$/caselist.txt" />
         <option value="$PROJECT_DIR$/common/configDB.py" />
         <option value="$PROJECT_DIR$/api/getSecureKey.py" />
         <option value="$PROJECT_DIR$/testcase/dccj/user/homecase/testAuditApply.py" />
@@ -236,14 +290,16 @@
         <option value="$PROJECT_DIR$/api/hmy.py" />
         <option value="$PROJECT_DIR$/runTest.py" />
         <option value="$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py" />
-        <option value="$PROJECT_DIR$/testFile/SQL.xml" />
+        <option value="$PROJECT_DIR$/caselist.txt" />
         <option value="$PROJECT_DIR$/api/delUserInfo.py" />
+        <option value="$PROJECT_DIR$/testFile/SQL.xml" />
+        <option value="$PROJECT_DIR$/api/delMerchant.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="39" />
-    <option name="y" value="23" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="336" />
+    <option name="y" value="40" />
     <option name="width" value="1881" />
     <option name="height" value="1057" />
   </component>
@@ -272,13 +328,78 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="ProjectPane" />
       <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="api" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="common" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="dccj" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="dccj" type="462c0819:PsiDirectoryNode" />
+              <item name="haomeiyi" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="dccj" type="462c0819:PsiDirectoryNode" />
+              <item name="haomeiyi" type="462c0819:PsiDirectoryNode" />
+              <item name="loan" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="dccj" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Interfacetest" type="462c0819:PsiDirectoryNode" />
+              <item name="testcase" type="462c0819:PsiDirectoryNode" />
+              <item name="dccj" type="462c0819:PsiDirectoryNode" />
+              <item name="user" type="462c0819:PsiDirectoryNode" />
+              <item name="homecase" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="InterfaceTest" type="b2602c69:ProjectViewProjectNode" />
+              <item name="External Libraries" type="cb654da1:ExternalLibrariesNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
-    <property name="ChangesBrowser.SHOW_FLATTEN" value="false" />
+    <property name="ChangesTree.GroupingKeys" value="directory&#10;module" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1543213372614" />
@@ -286,7 +407,7 @@
     <property name="project.structure.last.edited" value="Problems" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="settings.github" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -313,7 +434,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.runTest">
+  <component name="RunManager" selected="Python.delMerchant">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -349,7 +470,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="_jclass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="delMerchant" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="InterfaceTest" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -357,12 +478,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/api" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="/Library/Frameworks/Python.framework/Versions/3.6/lib/python3.6/site-packages/jpype/_jclass.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/api/delMerchant.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -476,11 +597,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.runTest" />
+        <item itemvalue="Python.delMerchant" />
         <item itemvalue="Python.delUserInfo" />
+        <item itemvalue="Python.runTest" />
         <item itemvalue="Python.hmy" />
         <item itemvalue="Python tests.Unittests for testBindCardWithCode.TestBindCardWithCode.testBindCardWithCode" />
-        <item itemvalue="Python._jclass" />
       </list>
     </recent_temporary>
   </component>
@@ -622,7 +743,8 @@
       <workItem from="1546508448022" duration="50915000" />
       <workItem from="1547089225114" duration="47137000" />
       <workItem from="1547624018868" duration="82292000" />
-      <workItem from="1550021564743" duration="11159000" />
+      <workItem from="1550021564743" duration="23356000" />
+      <workItem from="1551335954960" duration="8601000" />
     </task>
     <task id="LOCAL-00001" summary="test">
       <created>1524211468118</created>
@@ -631,7 +753,14 @@
       <option name="project" value="LOCAL" />
       <updated>1524211468118</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="test">
+      <created>1550459106508</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1550459106508</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TestHistory">
@@ -667,7 +796,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="963796000" />
+    <option name="totallyTimeSpent" value="984594000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -679,9 +808,10 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="39" y="23" width="1881" height="1057" extended-state="6" />
+    <frame x="37" y="23" width="1883" height="1057" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.22077216" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.22324823" />
       <window_info id="Structure" order="1" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -691,14 +821,14 @@
       <window_info id="Web" order="7" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.34040296" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.64375" visible="true" weight="0.253886" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.64375" visible="true" weight="0.253886" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.5772921" weight="0.44041452" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32936078" />
       <window_info anchor="bottom" id="Terminal" order="7" />
       <window_info anchor="bottom" id="Event Log" order="8" sideWeight="0.50053304" side_tool="true" weight="0.32827735" />
-      <window_info anchor="bottom" id="Version Control" order="9" />
+      <window_info anchor="bottom" id="Version Control" order="9" weight="0.32953367" />
       <window_info anchor="bottom" id="Java Enterprise" order="10" />
       <window_info anchor="bottom" id="Spring" order="11" />
       <window_info anchor="bottom" id="Messages" order="12" weight="0.32979852" />
@@ -791,14 +921,6 @@
     </watches-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/AppData/Local/Programs/Python/Python36/Lib/smtplib.py" />
-    <entry file="file://$PROJECT_DIR$/api/WeChatClient.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1045">
-          <caret line="59" column="22" selection-start-line="59" selection-start-column="22" selection-end-line="59" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/api/sendSMSCode.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="518">
@@ -924,16 +1046,6 @@
           <caret line="103" column="12" selection-start-line="103" selection-start-column="8" selection-end-line="103" selection-end-column="12" />
           <folding>
             <element signature="e#757#770#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testRefund.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-563">
-          <caret line="17" selection-start-line="17" selection-end-line="17" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1100,22 +1212,12 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/common/configHttp.py">
+    <entry file="file://$PROJECT_DIR$/api/getSecureKey.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1347">
-          <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+        <state relative-caret-position="214">
+          <caret line="42" column="63" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="68" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/homecase/testAuditApply.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="282">
-          <caret line="149" column="45" selection-start-line="149" selection-start-column="41" selection-end-line="149" selection-end-column="45" />
-          <folding>
-            <element signature="e#0#13#0" expanded="true" />
+            <element signature="e#0#11#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1127,9 +1229,75 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/common/businessCommon.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-562">
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="4444">
+          <caret line="212" column="67" selection-start-line="212" selection-start-column="60" selection-end-line="212" selection-end-column="67" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/caselist.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/runTest.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="924">
+          <caret line="49" column="43" selection-start-line="49" selection-start-column="43" selection-end-line="49" selection-end-column="43" />
+          <folding>
+            <element signature="e#0#9#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testRefund.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="154">
+          <caret line="17" selection-start-line="17" selection-end-line="17" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common/configHttp.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1210">
+          <caret line="60" column="61" selection-start-line="60" selection-start-column="61" selection-end-line="60" selection-end-column="61" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/testcase/dccj/user/homecase/testAuditApply.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3058">
+          <caret line="149" column="45" selection-start-line="149" selection-start-column="41" selection-end-line="149" selection-end-column="45" />
+          <folding>
+            <element signature="e#0#13#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/api/hmy.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="173">
+        <state relative-caret-position="3168">
           <caret line="158" column="25" selection-start-line="158" selection-start-column="25" selection-end-line="158" selection-end-column="25" />
           <folding>
             <element signature="e#0#15#0" expanded="true" />
@@ -1139,52 +1307,25 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config.ini">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="299">
+        <state relative-caret-position="651">
           <caret line="56" column="27" selection-start-line="56" selection-start-column="27" selection-end-line="56" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/caselist.txt">
+    <entry file="file://$PROJECT_DIR$/api/delUserInfo.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="7" selection-start-column="7" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/testcase/dccj/haomeiyi/loan/testAdd.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-636">
-          <caret line="130" column="34" selection-start-line="130" selection-start-column="34" selection-end-line="130" selection-end-column="34" />
+        <state relative-caret-position="215">
+          <caret line="403" column="26" selection-start-line="403" selection-start-column="15" selection-end-line="403" selection-end-column="26" />
           <folding>
-            <element signature="e#0#13#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/api/getSecureKey.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="214">
-          <caret line="42" column="63" selection-start-line="42" selection-start-column="56" selection-end-line="42" selection-end-column="68" />
-          <folding>
-            <element signature="e#0#11#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/runTest.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="308">
-          <caret line="14" column="23" selection-start-line="14" selection-start-column="23" selection-end-line="14" selection-end-column="23" />
-          <folding>
-            <element signature="e#0#9#0" expanded="true" />
+            <element signature="e#0#22#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/testFile/SQL.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="237">
-          <caret line="197" column="30" selection-start-line="197" selection-start-column="23" selection-end-line="197" selection-end-column="30" />
+        <state relative-caret-position="398">
+          <caret line="194" column="22" selection-start-line="194" selection-start-column="22" selection-end-line="194" selection-end-column="22" />
           <folding>
             <element signature="n#database#0;n#page#0;n#!!top" />
             <element signature="n#table#0;n#database#0;n#page#0;n#!!top" />
@@ -1193,20 +1334,22 @@
             <element signature="n#database#1;n#page#0;n#!!top" />
             <element signature="n#database#2;n#page#0;n#!!top" />
             <element signature="n#database#3;n#page#0;n#!!top" />
-            <element signature="n#table#2;n#database#3;n#page#0;n#!!top" />
             <element signature="n#database#5;n#page#0;n#!!top" />
             <element signature="n#database#6;n#page#0;n#!!top" />
+            <element signature="n#database#7;n#page#0;n#!!top" />
             <element signature="n#database#8;n#page#0;n#!!top" />
+            <element signature="n#database#9;n#page#0;n#!!top" />
             <element signature="n#table#0;n#database#9;n#page#0;n#!!top" />
             <element signature="n#database#10;n#page#0;n#!!top" />
+            <element signature="n#database#11;n#page#0;n#!!top" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/api/delUserInfo.py">
+    <entry file="file://$PROJECT_DIR$/api/delMerchant.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-111">
-          <caret line="301" column="4" selection-start-line="301" selection-start-column="4" selection-end-line="301" selection-end-column="4" />
+        <state relative-caret-position="363">
+          <caret line="60" lean-forward="true" selection-start-line="60" selection-end-line="60" />
           <folding>
             <element signature="e#0#22#0" expanded="true" />
           </folding>

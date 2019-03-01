@@ -170,7 +170,7 @@ class TestAdd(unittest.TestCase):
 
         #if self.assertEqual(self.info['success'],"true"):
         loan_id = self.info["result"]
-        getSecureKey.getSpzxMain(loan_id)
+        #getSecureKey.getSpzxMain(loan_id)
         print("第六步：下单审核")
 
         #获取的loanid，写入配置文件
