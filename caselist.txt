@@ -1,5 +1,5 @@
 #借款撤销业务
-#dccj/haomeiyi/loan/testAdd
+dccj/haomeiyi/loan/testAdd
 #dccj/haomeiyi/loan/testRepeal
 
 #还款接口
@@ -16,7 +16,7 @@
 #dccj/user/homecase/testQueryCredit
 
 #退款接口
-dccj/haomeiyi/loan/testRefund
+#dccj/haomeiyi/loan/testRefund
 
 #授信签约接口
 #dccj/user/homecase/testAuditApply

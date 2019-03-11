@@ -59,10 +59,7 @@ def delCredit_audit(merchantid):
     q = myDB.executeSQL("yongda_merchant","credit_audit","delcredit_audit",merchantid)
     myDB.closeDB()
 
-#删除商户账户信息表
-def delMerchant_member(formid):
-    q = myDB.executeSQL("yongda_account","member","delmemberforfromid",formid)
-    myDB.closeDB()
+
 
 #查询商户memberid
 def getMerchant_memberid_formid(formid):
@@ -72,6 +69,11 @@ def getMerchant_memberid_formid(formid):
         return memberid
     else:
         return None
+    myDB.closeDB()
+
+#删除商户账户信息表
+def delMerchant_member(memberid):
+    q = myDB.executeSQL("yongda_account","member","delmemberformemberid",memberid)
     myDB.closeDB()
 
 #删除商户账户信息表数据
@@ -118,6 +120,7 @@ def delAllmerchant_info(login_name):
 
 
     if memberid != '' and memberid is not None:
+        delMerchant_member(memberid)
         delMerchant_member_account(memberid)
         delMerchant_outaccount(memberid)
         delMerchant_outaccount_detail(memberid)
@@ -137,16 +140,9 @@ def delAllmerchant_info(login_name):
 
 if __name__ == '__main__':
     try:
-        #delCredit('15700098573')
-        # delAuth('18006782508')
-        #delBankCard1('15700098573')
-        #delAuth('15726940779')
-        #delmmh_credit_audit('100001470054')
-        #print("删除用户授信及绑卡完成")
-        #print(getMemberAccount('11083251997758115840'))
-
-        print(getMerchant_id("test05@qq.com"))
-        print(getMerchant_memberid_formid('36'))
+        delAllmerchant_info("test88@qq.com")
+        #print(getMerchant_id("test05@qq.com"))
+        #print(getMerchant_memberid_formid('36'))
 
     except Error as e:
         print(e)
